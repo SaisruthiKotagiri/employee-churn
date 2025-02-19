@@ -1,0 +1,11 @@
+[project]
+name = "employee-churn"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "scikit-learn>=1.6.1",
+    "streamlit>=1.41.1",
+    "xgboost>=2.1.4",
+]
